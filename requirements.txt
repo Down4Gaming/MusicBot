@@ -1,4 +1,5 @@
 discord
+discord.py
 dnspython==1.16.0
 PyNaCl
 youtube-dl
