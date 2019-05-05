@@ -218,4 +218,4 @@ async def on_ready():
     print('------')
 
 # https://discordapp.com/oauth2/authorize?client_id=548913610030841875&scope=bot
-bot.run('NTQ4OTEzNjEwMDMwODQxODc1.D1QrXQ.KvDi9uKafxfGSnUBgFB-5eV6RzA')
+bot.run('')
